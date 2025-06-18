@@ -26,3 +26,5 @@ The model is trained on third quarter front and rare view hence the picture shou
 2. Run the streamlit app:
    ```commandline
    streamlit run app.py
+For any issues please feel free to contact me.My email-asmitadesh945@gmail.com
+
